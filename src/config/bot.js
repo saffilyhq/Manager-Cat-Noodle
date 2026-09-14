@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "pop off central :3", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        name: "dont be bad.. OR ELSE", // required by Discord API, not shown in the client
+        state: "using a magnifying glass to stalk",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
